@@ -35,7 +35,7 @@ QuadGK = "2.4"
 RecipesBase = "1"
 Reexport = "1.0"
 Setfield = "1"
-StatsBase = "0.32.0, 0.33"
+StatsBase = "0.32.0, 0.33, 0.34"
 julia = "1.6"
 
 [extras]
